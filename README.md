@@ -1,5 +1,9 @@
 # DeadAir
 
+### Donate
+  - Bitcoin: 1DGyJxWY4AWCbjMQptc3fSkdnf4e71BCX9
+  - Ethereum: 0x019e2AC0ffEFD6eC62b464487d2434bc57C6F9ae
+
 Wireless multitool written in Python
 
 Dependencies: scapy
